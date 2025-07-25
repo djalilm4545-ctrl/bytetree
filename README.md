@@ -17,3 +17,7 @@ No installation required. Just clone the repo and run the script with Python 3:
 git clone https://github.com/your-username/number-to-words.git
 cd number-to-words
 python3 main.py
+
+
+And finally:
+If you find a bug in the app, let me know so I can fix it.
